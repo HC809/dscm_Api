@@ -1,0 +1,39 @@
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.deps.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.runtimeconfig.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.runtimeconfig.dev.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.dll
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/bin/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.pdb
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.csprojAssemblyReference.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.AssemblyInfoInputs.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.AssemblyInfo.cs
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.csproj.CoreCompileInputs.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.RazorTargetAssemblyInfo.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/staticwebassets/DiunsaSCMInterfaceERP.API.StaticWebAssets.Manifest.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/staticwebassets/DiunsaSCMInterfaceERP.API.StaticWebAssets.xml
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.dll
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.pdb
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.API/obj/Debug/netcoreapp3.1/DiunsaSCMInterfaceERP.API.genruntimeconfig.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.exe
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.deps.json
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.runtimeconfig.json
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.runtimeconfig.dev.json
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.dll
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\bin\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.pdb
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.csprojAssemblyReference.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.AssemblyInfoInputs.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.AssemblyInfo.cs
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.csproj.CoreCompileInputs.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.RazorTargetAssemblyInfo.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\staticwebassets\DiunsaSCMInterfaceERP.API.StaticWebAssets.Manifest.cache
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\staticwebassets\DiunsaSCMInterfaceERP.API.StaticWebAssets.xml
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.dll
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.pdb
+C:\Users\corellana\Documents\Visual Studio 2019\Projects\DiunsaSCM\DiunsaSCMInterfaceERP.API\obj\Debug\netcoreapp3.1\DiunsaSCMInterfaceERP.API.genruntimeconfig.cache

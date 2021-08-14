@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DiunsaSCMInterfaceERP.Core/1.0.0": {
+        "dependencies": {
+          "DiunsaSCM.Utils": "1.0.0"
+        },
+        "runtime": {
+          "DiunsaSCMInterfaceERP.Core.dll": {}
+        }
+      },
+      "DiunsaSCM.Utils/1.0.0": {
+        "runtime": {
+          "DiunsaSCM.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiunsaSCMInterfaceERP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiunsaSCM.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

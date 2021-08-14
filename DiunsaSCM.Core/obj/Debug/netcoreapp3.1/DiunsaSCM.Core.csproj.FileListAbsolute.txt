@@ -1,0 +1,58 @@
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.deps.json
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csprojAssemblyReference.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfoInputs.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfo.cs
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CoreCompileInputs.cache
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/cesarorellana/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.deps.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Utils.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Utils.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfoInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfo.cs
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CoreCompileInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CopyComplete
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csprojAssemblyReference.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.deps.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Utils.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Utils.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csprojAssemblyReference.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfoInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfo.cs
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CoreCompileInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CopyComplete
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.deps.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Utils.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/bin/Debug/netcoreapp3.1/DiunsaSCM.Utils.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csprojAssemblyReference.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfoInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.AssemblyInfo.cs
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CoreCompileInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.csproj.CopyComplete
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Core/obj/Debug/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\bin\Debug\netcoreapp3.1\DiunsaSCM.Core.deps.json
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\bin\Debug\netcoreapp3.1\DiunsaSCM.Core.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\bin\Debug\netcoreapp3.1\DiunsaSCM.Core.pdb
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\bin\Debug\netcoreapp3.1\DiunsaSCM.Utils.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\bin\Debug\netcoreapp3.1\DiunsaSCM.Utils.pdb
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Core\obj\Debug\netcoreapp3.1\DiunsaSCM.Core.pdb

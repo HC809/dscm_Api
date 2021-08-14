@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Service\\DiunsaSCM.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj",
+        "projectName": "DiunsaSCM.Core",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Data\\DiunsaSCM.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Data\\DiunsaSCM.Data.csproj",
+        "projectName": "DiunsaSCM.Data",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Data\\DiunsaSCM.Data.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Z.EntityFramework.Plus.EFCore": {
+              "target": "Package",
+              "version": "[3.0.67, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Service\\DiunsaSCM.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Service\\DiunsaSCM.Service.csproj",
+        "projectName": "DiunsaSCM.Service",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Service\\DiunsaSCM.Service.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Core\\DiunsaSCM.Core.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Data\\DiunsaSCM.Data.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Data\\DiunsaSCM.Data.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.19, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj",
+        "projectName": "DiunsaSCM.Utils",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\DiunsaSCM.Utils.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\dscm_api\\DiunsaSCM.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

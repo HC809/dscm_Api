@@ -1,0 +1,34 @@
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.deps.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.csprojAssemblyReference.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.AssemblyInfoInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.AssemblyInfo.cs
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.csproj.CoreCompileInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.csproj.CopyComplete
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.deps.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCM.Utils.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCM.Utils.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCM.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.csprojAssemblyReference.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.AssemblyInfoInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.AssemblyInfo.cs
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.csproj.CoreCompileInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.csproj.CopyComplete
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCMInterfaceERP.Service/obj/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.pdb

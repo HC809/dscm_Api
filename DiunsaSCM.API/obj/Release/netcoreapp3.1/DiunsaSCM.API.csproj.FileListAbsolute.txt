@@ -1,0 +1,267 @@
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/appsettings.Development.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/appsettings.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.exe
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.deps.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.runtimeconfig.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.runtimeconfig.dev.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Data.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Service.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Service.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Data.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.csprojAssemblyReference.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.AssemblyInfoInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.AssemblyInfo.cs
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.csproj.CoreCompileInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.RazorTargetAssemblyInfo.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.csproj.CopyComplete
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/staticwebassets/DiunsaSCM.API.StaticWebAssets.Manifest.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/staticwebassets/DiunsaSCM.API.StaticWebAssets.xml
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.genruntimeconfig.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/appsettings.Development.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/appsettings.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Connected Services/Proveedor de Microsoft WCF Web Service Reference/ConnectedService.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Connected Services/WCF_ALS/ConnectedService.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Properties/launchSettings.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.deps.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.runtimeconfig.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.runtimeconfig.dev.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.API.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/AutoMapper.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Google.Protobuf.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Grpc.AspNetCore.Server.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Grpc.Core.Api.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Grpc.Net.Client.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Grpc.Net.ClientFactory.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Grpc.Net.Common.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Composition.Convention.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Net.Http.WinHttpHandler.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.ServiceModel.Duplex.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.ServiceModel.Http.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.ServiceModel.NetTcp.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.ServiceModel.Primitives.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.ServiceModel.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.ServiceModel.Security.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/System.Text.Json.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Z.EntityFramework.Extensions.EFCore.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Z.EntityFramework.Plus.EFCore.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/Z.Expressions.Eval.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win7/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Data.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Service.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Utils.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Service.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Data.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCM.Utils.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Data.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/bin/Release/netcoreapp3.1/DiunsaSCMInterfaceERP.Service.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.csprojAssemblyReference.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.AssemblyInfoInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.AssemblyInfo.cs
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.csproj.CoreCompileInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.RazorTargetAssemblyInfo.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.csproj.CopyComplete
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/staticwebassets/DiunsaSCM.API.StaticWebAssets.Manifest.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/staticwebassets/DiunsaSCM.API.StaticWebAssets.xml
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/obj/Release/netcoreapp3.1/DiunsaSCM.API.genruntimeconfig.cache

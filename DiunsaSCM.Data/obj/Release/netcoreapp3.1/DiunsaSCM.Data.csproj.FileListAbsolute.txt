@@ -1,0 +1,29 @@
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.deps.json
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Core.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Core.pdb
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.csprojAssemblyReference.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.AssemblyInfoInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.AssemblyInfo.cs
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.csproj.CoreCompileInputs.cache
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.csproj.CopyComplete
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.dll
+C:/Users/corellana/Documents/Visual Studio 2019/Projects/DiunsaSCM/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.deps.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.runtimeconfig.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.runtimeconfig.dev.json
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Data.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Core.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Utils.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Core.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/bin/Release/netcoreapp3.1/DiunsaSCM.Utils.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.csprojAssemblyReference.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.AssemblyInfoInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.AssemblyInfo.cs
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.csproj.CoreCompileInputs.cache
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.csproj.CopyComplete
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.dll
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.pdb
+/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Data/obj/Release/netcoreapp3.1/DiunsaSCM.Data.genruntimeconfig.cache

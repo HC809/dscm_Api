@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{1F2BBA53-8C4D-485E-BFD2-D4FD43140EF0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiunsaSCM.Core/Models/InventItemPrepackBarcodeDTO.cs">
+    <Files>
+      <File FileName="DiunsaSCM.Data/UnitOfWork.cs" Line="90" Column="9" />
+      <File FileName="DiunsaSCM.Core/Enums/PurchQuotationStatus.cs" Line="1" Column="1" />
+      <File FileName="DiunsaSCM.Core/Models/ItemBarcodeDataTransferObject.cs" Line="21" Column="44" />
+      <File FileName="DiunsaSCM.Core/Models/InventItemPrepackBarcodeDTO.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiunsaSCM" expanded="True">
+            <Node name="DiunsaSCM.Core" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="InventItemPrepackBarcodeDTO.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DiunsaSCM.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/BarcodeBatchService.cs" relfile="DiunsaSCM.Service/BarcodeBatchService.cs" line="58" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/SalesPriceDefinitionLineService.cs" relfile="DiunsaSCM.Service/SalesPriceDefinitionLineService.cs" line="55" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/SalesPriceDefinitionService.cs" relfile="DiunsaSCM.Service/SalesPriceDefinitionService.cs" line="73" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/ItemBarcodeService.cs" relfile="DiunsaSCM.Service/ItemBarcodeService.cs" line="99" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchApprovalWorkService.cs" relfile="DiunsaSCM.Service/PurchApprovalWorkService.cs" line="53" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationApprovalLogService.cs" relfile="DiunsaSCM.Service/PurchQuotationApprovalLogService.cs" line="96" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationApprovalLogService.cs" relfile="DiunsaSCM.Service/PurchQuotationApprovalLogService.cs" line="103" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationApprovalLogService.cs" relfile="DiunsaSCM.Service/PurchQuotationApprovalLogService.cs" line="106" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationApprovalRuleConditionService.cs" relfile="DiunsaSCM.Service/PurchQuotationApprovalRuleConditionService.cs" line="35" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchOrderShipmentCrossDockingService.cs" relfile="DiunsaSCM.Service/PurchOrderShipmentCrossDockingService.cs" line="55" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/InventItemPrepackBarcodeService.cs" relfile="DiunsaSCM.Service/InventItemPrepackBarcodeService.cs" line="62" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationLineService.cs" relfile="DiunsaSCM.Service/PurchQuotationLineService.cs" line="109" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationLinePrepackDetailService.cs" relfile="DiunsaSCM.Service/PurchQuotationLinePrepackDetailService.cs" line="65" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationService.cs" relfile="DiunsaSCM.Service/PurchQuotationService.cs" line="59" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/Controllers/PurchOrderShipmentHeadersController.cs" relfile="DiunsaSCM.API/Controllers/PurchOrderShipmentHeadersController.cs" line="58" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.API/Controllers/PurchOrderShipmentHeadersController.cs" relfile="DiunsaSCM.API/Controllers/PurchOrderShipmentHeadersController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchOrderShipmentHeaderService.cs" relfile="DiunsaSCM.Service/PurchOrderShipmentHeaderService.cs" line="190" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/ShipmentContainerService.cs" relfile="DiunsaSCM.Service/ShipmentContainerService.cs" line="152" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/ShipmentContainerService.cs" relfile="DiunsaSCM.Service/ShipmentContainerService.cs" line="170" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/ShipmentContainerService.cs" relfile="DiunsaSCM.Service/ShipmentContainerService.cs" line="177" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/PurchQuotationCreatorRoleService.cs" relfile="DiunsaSCM.Service/PurchQuotationCreatorRoleService.cs" line="36" column="1" />
+      <Breakpoint file="/Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Service/ServiceBase.cs" relfile="DiunsaSCM.Service/ServiceBase.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
