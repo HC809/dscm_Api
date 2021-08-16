@@ -18,7 +18,7 @@ namespace DiunsaSCM.API.Controllers
             _service = service;
         }
 
-
+        [HttpGet]
         public async Task<ActionResult> GetAllAsync(long parentId, string searchString = "", int slice = 0)
         {
             ServiceResult<IEnumerable<TModel>> serviceResult;

@@ -21,6 +21,7 @@ namespace DiunsaSCM.API.Controllers
             _service = service;
         }
 
+        [HttpGet("GetAll")]//se agrego
         public async Task<ActionResult> GetAllAsync(string searchString = "", int slice = 0)
         {
             var claimsIdentity = this.User.Identity as ClaimsIdentity;

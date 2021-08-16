@@ -843,3 +843,8 @@ C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\obj\Debug\netcoreapp3.1\Diu
 C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\obj\Debug\netcoreapp3.1\DiunsaSCM.API.dll
 C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\obj\Debug\netcoreapp3.1\DiunsaSCM.API.pdb
 C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\obj\Debug\netcoreapp3.1\DiunsaSCM.API.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\obj\Debug\netcoreapp3.1\DiunsaSCM.API.MvcApplicationPartsAssemblyInfo.cs

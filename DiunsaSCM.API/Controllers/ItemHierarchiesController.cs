@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace DiunsaSCM.API.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
+    //[Authorize]
     public class ItemHierarchiesController : GenericController<ItemHierarchyDTO>
     {
         public ItemHierarchiesController(IServiceBase<ItemHierarchyDTO> service)
@@ -18,8 +18,9 @@ namespace DiunsaSCM.API.Controllers
         {
         }
 
-        [Route("~/api/[controller]")]
-        [HttpGet]
+        //[Route("~/api/[controller]")]
+        //[HttpGet]
+        [HttpGet("GetAll")]//se agreggo
         public async Task<ActionResult> GetAllAsync([FromQuery] ItemHierarchyLevel itemHierarchyLevel, [FromQuery]  bool includeChildren)
         {
             var service = _service as IItemHierarchyService;

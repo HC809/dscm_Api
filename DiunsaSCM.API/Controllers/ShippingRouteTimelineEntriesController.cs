@@ -17,6 +17,7 @@ namespace DiunsaSCM.API.Controllers
             _service = service;
         }
 
+        [HttpGet("GetAllByPurchOrderShimentHeaderId")]//se agrego
         public ActionResult GetAllByPurchOrderShimentHeaderId(long purchOrderShimentHeaderId)
         {
             var serviceResult = _service.GetAllByPurchOrderShimentHeaderId(purchOrderShimentHeaderId);

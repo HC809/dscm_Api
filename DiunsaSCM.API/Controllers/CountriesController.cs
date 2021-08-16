@@ -9,7 +9,7 @@ namespace DiunsaSCM.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class CountriesController : Controller
     {
         private readonly ICountryService _service;

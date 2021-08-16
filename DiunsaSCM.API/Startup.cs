@@ -40,13 +40,13 @@ namespace DiunsaSCM.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddHangfire(x => x.UseSqlServerStorage(Configuration.GetConnectionString("DSCMDatabaseHangFire")));
-            services.AddHangfireServer();
+            //services.AddHangfire(x => x.UseSqlServerStorage(Configuration.GetConnectionString("DSCMDatabaseHangFire")));
+            //services.AddHangfireServer();
 
             services.AddDbContext<DiunsaSCMContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DSCMDatabase")));
-            services.AddDbContext<DiunsaSCMERPContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DSCM_ERPDataBase")));
+            //services.AddDbContext<DiunsaSCMERPContext>(options =>
+            //    options.UseSqlServer(Configuration.GetConnectionString("DSCM_ERPDataBase")));
 
             var key = Encoding.ASCII.GetBytes(SECRET);
 
@@ -79,7 +79,6 @@ namespace DiunsaSCM.API
                 options.DefaultPolicy = defaultAuthorizationPolicyBuilder.Build();
             });
 
-
             services.AddAutoMapper(c => c.AddProfile<AutoMapping>(), typeof(Startup));
 
             services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
@@ -91,7 +90,7 @@ namespace DiunsaSCM.API
 
             services.AddControllers();
             services.AddDbContext<DiunsaSCMContext>();
-            services.AddDbContext<DiunsaSCMERPContext>();
+            //services.AddDbContext<DiunsaSCMERPContext>();
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
@@ -115,7 +114,7 @@ namespace DiunsaSCM.API
             services.AddScoped<IShipmentContainerTypeService, ShipmentContainerTypeService>();
             services.AddScoped<IPortService, PortService>();
             services.AddScoped<ICountryService, CountryService>();
-            services.AddScoped<IShipmentLogEntryService, ShipmentLogEntryService>();
+            //services.AddScoped<IShipmentLogEntryService, ShipmentLogEntryService>();
             services.AddScoped<IShippingRouteService, ShippingRouteService>();
             services.AddScoped<IShippingRouteStepService, ShippingRouteStepService>();
             services.AddScoped<IShippingStepTypeService, ShippingStepTypeService>();
@@ -159,20 +158,20 @@ namespace DiunsaSCM.API
             services.AddScoped<IRepositoryBase<TaxItemGroupHeading>, TaxItemGroupHeadingRepository>();
             services.AddScoped<IServiceBase<TaxItemGroupHeadingDTO>, TaxItemGroupHeadingService>();
 
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApproval>, PurchQuotationApprovalRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalDTO>, DiunsaSCM.Service.PurchQuotationApprovalService>();
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotation>, PurchQuotationRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationDTO>, DiunsaSCM.Service.PurchQuotationService>();
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationLine>, PurchQuotationLineRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationLineDTO>, DiunsaSCM.Service.PurchQuotationLineService>();
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalRule>, PurchQuotationApprovalRuleRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalRuleDTO>, DiunsaSCM.Service.PurchQuotationApprovalRuleService>();
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalRuleCondition>, PurchQuotationApprovalRuleConditionRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalRuleConditionDTO>, DiunsaSCM.Service.PurchQuotationApprovalRuleConditionService>();
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalRuleConditionTerm>, PurchQuotationApprovalRuleConditionTermRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalRuleConditionTermDTO>, DiunsaSCM.Service.PurchQuotationApprovalRuleConditionTermService>();
-            services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalLog>, PurchQuotationApprovalLogRepository>();
-            services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalLogDTO>, DiunsaSCM.Service.PurchQuotationApprovalLogService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApproval>, PurchQuotationApprovalRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalDTO>, DiunsaSCM.Service.PurchQuotationApprovalService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotation>, PurchQuotationRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationDTO>, DiunsaSCM.Service.PurchQuotationService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationLine>, PurchQuotationLineRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationLineDTO>, DiunsaSCM.Service.PurchQuotationLineService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalRule>, PurchQuotationApprovalRuleRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalRuleDTO>, DiunsaSCM.Service.PurchQuotationApprovalRuleService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalRuleCondition>, PurchQuotationApprovalRuleConditionRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalRuleConditionDTO>, DiunsaSCM.Service.PurchQuotationApprovalRuleConditionService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalRuleConditionTerm>, PurchQuotationApprovalRuleConditionTermRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalRuleConditionTermDTO>, DiunsaSCM.Service.PurchQuotationApprovalRuleConditionTermService>();
+            //services.AddScoped<IRepositoryBase<DiunsaSCM.Core.Entities.PurchQuotationApprovalLog>, PurchQuotationApprovalLogRepository>();
+            //services.AddScoped<IServiceBase<DiunsaSCM.Core.Models.PurchQuotationApprovalLogDTO>, DiunsaSCM.Service.PurchQuotationApprovalLogService>();
 
             services.AddScoped<IRepositoryBase<PurchOrderShipmentRouteStepSuscription>, PurchOrderShipmentRouteStepSuscriptionRepository>();
             services.AddScoped<IServiceBase<PurchOrderShipmentRouteStepSuscriptionDTO>, PurchOrderShipmentRouteStepSuscriptionService>();
@@ -203,8 +202,8 @@ namespace DiunsaSCM.API
             services.AddScoped<IServiceBase<CustomerPriceGroupDTO>, CustomerPriceGroupService>();
             services.AddScoped<IRepositoryBase<Barcode>, BarcodeRepository>();
             services.AddScoped<IServiceBase<BarcodeDTO>, BarcodeService>();
-            services.AddScoped<IRepositoryBase<BarcodeBatch>, BarcodeBatchRepository>();
-            services.AddScoped<IServiceBase<BarcodeBatchDTO>, BarcodeBatchService>();
+            //services.AddScoped<IRepositoryBase<BarcodeBatch>, BarcodeBatchRepository>();
+            //services.AddScoped<IServiceBase<BarcodeBatchDTO>, BarcodeBatchService>();
             services.AddScoped<IRepositoryBase<BarcodeSource>, BarcodeSourceRepository>();
             services.AddScoped<IServiceBase<BarcodeSourceDTO>, BarcodeSourceService>();
             services.AddScoped<IRepositoryBase<SalesPriceDefinition>, SalesPriceDefinitionRepository>();
@@ -267,18 +266,20 @@ namespace DiunsaSCM.API
 
             services.AddScoped<DiunsaSCM.Core.Repositories.ERPRepositories.IERPRepository<ERPReceiptDetail>, ERPReceiptDetailRepository>();
 
-            services.AddScoped<IEmailService, EmailService>();
+            //services.AddScoped<IEmailService, EmailService>();
 
-            services.AddScoped<IUserService, UserService>();
-            services.AddScoped<IWorkerService, WorkerService>();
+            //services.AddScoped<IUserService, UserService>();
+            //services.AddScoped<IWorkerService, WorkerService>();
 
             services.AddSingleton<SessionProvider>();
 
-
+            // Register the Swagger generator, defining 1 or more Swagger documents
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IBackgroundJobClient backgroundJobs, IWebHostEnvironment env, IWorkerService workerService)
+        //public void Configure(IApplicationBuilder app, IBackgroundJobClient backgroundJobs, IWebHostEnvironment env, IWorkerService workerService)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseCors("ApiCorsPolicy");
             //            app.UseMvc();
@@ -290,6 +291,16 @@ namespace DiunsaSCM.API
 
             app.UseHttpsRedirection();
 
+            // Enable middleware to serve generated Swagger as a JSON endpoint.
+            app.UseSwagger();
+
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
+            // specifying the Swagger JSON endpoint.
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
+
             app.UseRouting();
 
 
@@ -300,13 +311,13 @@ namespace DiunsaSCM.API
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
-                endpoints.MapHangfireDashboard();
+                //endpoints.MapHangfireDashboard();
             });
 
-            app.UseHangfireDashboard();
-            backgroundJobs.Enqueue(() => Console.WriteLine("Hello world from Hangfire!"));
+            //app.UseHangfireDashboard();
+            //backgroundJobs.Enqueue(() => Console.WriteLine("Hello world from Hangfire!"));
 
-            workerService.ScheduleJobs();
+            //workerService.ScheduleJobs();
         }
     }
 }

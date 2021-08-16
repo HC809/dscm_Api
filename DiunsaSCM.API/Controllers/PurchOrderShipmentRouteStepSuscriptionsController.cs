@@ -26,7 +26,7 @@ namespace DiunsaSCM.API.Controllers
         }
 
         [Authorize]
-        [HttpGet]
+        [HttpGet("GetAll")]//se agrego
         public async Task<ActionResult> GetAllAsync(long purchOrderShimentHeaderId)
         {
             var claimsIdentity = this.User.Identity as ClaimsIdentity;

@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DiunsaSCM.API.Controllers
 {
+    [NonController]
     [Route("api/[controller]")]
     [Authorize]
     public class BarcodeBatchsController : GenericController<BarcodeBatchDTO>
