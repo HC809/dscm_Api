@@ -270,8 +270,12 @@ namespace DiunsaSCM.Data
             modelBuilder.Entity<ExchangeRate>(entity =>
             {
                 entity.HasIndex(e => new { e.StartDate, e.EndDate })
-                    .HasName("UQ__Exchange__ABBB9996C276834E")
+                    .HasName("UQ__Exchange__ABBB9996BBF1475C")
                     .IsUnique();
+
+                entity.Property(e => e.CurrencyCode)
+                    .IsRequired()
+                    .HasMaxLength(450);
 
                 entity.Property(e => e.ExchangeRate1)
                     .HasColumnName("ExchangeRate")

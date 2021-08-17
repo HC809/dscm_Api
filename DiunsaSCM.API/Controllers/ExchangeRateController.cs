@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace DiunsaSCM.API.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
+    //[Authorize]
     public class ExchangeRateController : GenericController<ExchangeRateDTO>
     {
         public ExchangeRateController(IServiceBase<ExchangeRateDTO> service)
