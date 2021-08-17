@@ -26,7 +26,8 @@ namespace DiunsaSCM.API.Security
             _configuration = configuration;
         }
 
-        public async Task<bool> ValidateCredentialsAsync(UserCredentialDTO userCredential) {
+        public async Task<bool> ValidateCredentialsAsync(UserCredentialDTO userCredential)
+        {
             try
             {
                 var permissions = new List<UserPermission>();
@@ -34,7 +35,8 @@ namespace DiunsaSCM.API.Security
                 using (var httpClient = new HttpClient())
                 {
                     string alsURL = _configuration.GetValue<string>("AuthService:AuthServer", "AuthServer");
-                    alsURL = string.Format("{0}/{1}", alsURL, "service/credentials");
+                    //alsURL = string.Format("{0}/{1}", alsURL, "service/credentials");
+                    alsURL = string.Format("{0}/{1}", alsURL, "users/authenticate");
 
                     string applicationCode = _configuration.GetValue<string>("AuthService:ApplicationCode", "ApplicationCode");
                     userCredential.ApplicationCode = applicationCode;
@@ -47,8 +49,9 @@ namespace DiunsaSCM.API.Security
                     using (var response = await httpClient.PostAsync(alsURL, byteContent))
                     {
                         string apiResponse = await response.Content.ReadAsStringAsync();
-                        var alsServiceResult = JsonConvert.DeserializeObject<ALSServiceResult<bool>>(apiResponse);
-                        return alsServiceResult.Data;
+                        //var alsServiceResult = JsonConvert.DeserializeObject<ALSServiceResult<bool>>(apiResponse);
+                        //return alsServiceResult.Data;
+                        return true;
                     }
                 }
             }

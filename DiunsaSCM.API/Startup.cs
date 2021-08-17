@@ -272,7 +272,7 @@ namespace DiunsaSCM.API
 
             //services.AddScoped<IEmailService, EmailService>();
 
-            //services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IUserService, UserService>();
             //services.AddScoped<IWorkerService, WorkerService>();
 
             services.AddSingleton<SessionProvider>();
@@ -300,7 +300,10 @@ namespace DiunsaSCM.API
                             {
                                 Type = ReferenceType.SecurityScheme,
                                 Id = "Bearer"
-                            }
+                            },
+                            Scheme = "oauth2",
+                            Name = "Bearer",
+                            In = ParameterLocation.Header,
                         }, new string[]{ }
                     }
                 });
