@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/corellana/.dotnet/store/|arch|/|tfm|",
-      "/Users/corellana/.nuget/packages"
+      "C:\\Users\\USUARIO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\USUARIO\\.nuget\\packages"
     ]
   }
 }

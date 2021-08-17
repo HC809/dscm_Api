@@ -7,3 +7,13 @@
 /Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Utils/obj/Release/netcoreapp3.1/DiunsaSCM.Utils.csproj.CoreCompileInputs.cache
 /Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Utils/obj/Release/netcoreapp3.1/DiunsaSCM.Utils.dll
 /Users/corellana/Documents/Projects/Diunsa/DiunsaSCM_Backend/DSCMAPI/DiunsaSCM.Utils/obj/Release/netcoreapp3.1/DiunsaSCM.Utils.pdb
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\bin\Release\netcoreapp3.1\DiunsaSCM.Utils.deps.json
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\bin\Release\netcoreapp3.1\DiunsaSCM.Utils.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\bin\Release\netcoreapp3.1\DiunsaSCM.Utils.pdb
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.dll
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.Utils\obj\Release\netcoreapp3.1\DiunsaSCM.Utils.pdb

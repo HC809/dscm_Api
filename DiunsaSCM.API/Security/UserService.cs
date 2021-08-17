@@ -56,7 +56,6 @@ namespace DiunsaSCM.API.Security
             {
                 return false;
             }
-
         }
 
         public async Task<List<UserPermission>> GetUserPermissionsAsync(string username)

@@ -848,3 +848,4 @@ C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Swa
 C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\obj\Debug\netcoreapp3.1\DiunsaSCM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\source\repos\dscm_api\DiunsaSCM.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

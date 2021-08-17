@@ -91,6 +91,8 @@ namespace DiunsaSCM.Data
         public DbSet<InventItemEnrolment> InventItemEnrolment { get; set; }
         public DbSet<InventItemEnrolmentDetail> InventItemEnrolmentDetail { get; set; }
 
+        public DbSet<ExchangeRate> ExchangeRate { get; set; }
+
         public DiunsaSCMContext() { }
 
         private SessionProvider _sessionProvider;
@@ -128,6 +130,7 @@ namespace DiunsaSCM.Data
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //optionsBuilder.UseSqlServer("Server=52.251.54.83,1433;Database=DSCM;User Id=dtech;Password=Dual@2021;");
             optionsBuilder.UseSqlServer("Server=localhost;Database=DSCM;User Id=dscm_dev;Password=Dual@2021;Trusted_Connection=True;MultipleActiveResultSets=true;");
             //optionsBuilder.UseSqlServer("Server=172.30.5.231;Database=DSCM;User=sa;Password=Diunsa504Admin;");
         }
@@ -263,6 +266,17 @@ namespace DiunsaSCM.Data
             modelBuilder.Entity<InventItemPrepackBarcode                            >().HasIndex(e => new { e.InventItemId, e.ItemBarcodeId }).IsUnique(true);
             modelBuilder.Entity<PurchOrderShipmentCrossDocking                      >().HasIndex(e => new { e.ShipmentContainerDetailId, e.StoreId }).IsUnique(true);
             modelBuilder.Entity<InventItemEnrolment                                 >().HasIndex(e => e.Code).IsUnique(true);
+
+            modelBuilder.Entity<ExchangeRate>(entity =>
+            {
+                entity.HasIndex(e => new { e.StartDate, e.EndDate })
+                    .HasName("UQ__Exchange__ABBB9996C276834E")
+                    .IsUnique();
+
+                entity.Property(e => e.ExchangeRate1)
+                    .HasColumnName("ExchangeRate")
+                    .HasColumnType("numeric(9, 4)");
+            });
 
             base.OnModelCreating(modelBuilder);
         }

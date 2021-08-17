@@ -23,6 +23,7 @@ using System;
 using DiunsaSCM.Core.Providers;
 using DiunsaSCMInterfaceERP.Core.Entities.ERPEntities;
 using DiunsaSCM.Data.Repositories.ERPRespositories;
+using Microsoft.OpenApi.Models;
 
 namespace DiunsaSCM.API
 {
@@ -100,7 +101,7 @@ namespace DiunsaSCM.API
             services.AddScoped<IServiceBase<PurchOrderDetailDTO>, PurchOrderDetailService>();
             services.AddScoped<IRepository<PurchOrderShipmentDetail>, PurchOrderShipmentDetailRepository>();
             services.AddScoped<IRepository<PurchOrderShipmentHeader>, PurchOrderShipmentHeaderRepository>();
-            //services.AddScoped<IRepository<InventItem>, InventItemRepository>();
+            //services.AddScoped<IRepository<InventItem>, InventItemRepository>(); --ya estaba comentado
 
             services.AddScoped<IRepositoryBase<ItemBarcode>, ItemBarcodeRepository>();
             services.AddScoped<IServiceBase<ItemBarcodeDTO>, ItemBarcodeService>();
@@ -266,6 +267,9 @@ namespace DiunsaSCM.API
 
             services.AddScoped<DiunsaSCM.Core.Repositories.ERPRepositories.IERPRepository<ERPReceiptDetail>, ERPReceiptDetailRepository>();
 
+            services.AddScoped<IRepositoryBase<ExchangeRate>, ExchangeRateRepository>();
+            services.AddScoped<IServiceBase<ExchangeRateDTO>, ExchangeRateService>();
+
             //services.AddScoped<IEmailService, EmailService>();
 
             //services.AddScoped<IUserService, UserService>();
@@ -274,7 +278,34 @@ namespace DiunsaSCM.API
             services.AddSingleton<SessionProvider>();
 
             // Register the Swagger generator, defining 1 or more Swagger documents
-            services.AddSwaggerGen();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Diunsa SCM API", Version = "v1" });
+
+                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    Type = SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer",
+                    BearerFormat = "JWT",
+                    In = ParameterLocation.Header,
+                });
+
+                c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {
+                        new OpenApiSecurityScheme
+                        {
+                            Reference = new OpenApiReference
+                            {
+                                Type = ReferenceType.SecurityScheme,
+                                Id = "Bearer"
+                            }
+                        }, new string[]{ }
+                    }
+                });
+
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -298,7 +329,7 @@ namespace DiunsaSCM.API
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "DSCM V1");
             });
 
             app.UseRouting();

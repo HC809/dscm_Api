@@ -37,6 +37,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.9",
           "Microsoft.AspNetCore.Cors": "2.2.0",
           "Microsoft.AspNetCore.Mvc.Cors": "2.2.0",
+          "Microsoft.EntityFrameworkCore.Design": "3.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.4",
           "Swashbuckle.AspNetCore": "6.1.5",
           "System.ServiceModel.Duplex": "4.4.4",
@@ -1087,6 +1088,18 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/3.1.7": {},
+      "Microsoft.EntityFrameworkCore.Design/3.1.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.100.119.61403"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/3.1.7": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.7"
@@ -4849,6 +4862,13 @@
       "sha512": "sha512-zSh3QF/Kz8fdVgyStQ1HYUGFDRqFbUR1UBpfa8tUuB0OutYab9R4aYdjkD8i9w9P5VZyHXqQNglh2cQHBFLtjg==",
       "path": "microsoft.entityframeworkcore.analyzers/3.1.7",
       "hashPath": "microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qCy5oedJEy1Hp7tr6tsgiiH+W68JQkMjDXmBcdGVexgOpt0VpcEKm+iBBJZ0I1Nbih3menlgOu0U1T4gNKi2Ew==",
+      "path": "microsoft.entityframeworkcore.design/3.1.1",
+      "hashPath": "microsoft.entityframeworkcore.design.3.1.1.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/3.1.7": {
       "type": "package",
