@@ -74,6 +74,9 @@ namespace DiunsaSCM.Core
         IInventItemPrepackBarcodeRepository InventItemPrepackBarcodes { get; }
         IInventItemPurchPriceLogRepository InventItemPurchPriceLog { get; }
 
+        IExchangeRateRepository ExchangeRate { get; }
+        ISuppliesRepository Supplies { get; }
+
         int Complete();
     }
 }

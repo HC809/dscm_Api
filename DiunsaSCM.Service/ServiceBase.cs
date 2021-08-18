@@ -38,7 +38,7 @@ namespace DiunsaSCM.Service
             }
             catch (Exception ex)
             {
-                return ServiceResult<TModel>.ErrorResult("Ha ocurrido un error al ejecutar la operación en la base de datos.");
+                return ServiceResult<TModel>.ErrorResult($"Ha ocurrido un error al ejecutar la operación en la base de datos. Error: {ex.InnerException.Message}");
             }
         }
 
@@ -54,7 +54,7 @@ namespace DiunsaSCM.Service
             }
             catch (Exception ex)
             {
-                return ServiceResult<TModel>.ErrorResult("Ha ocurrido un error al ejecutar la operación en la base de datos.");
+                return ServiceResult<TModel>.ErrorResult($"Ha ocurrido un error al ejecutar la operación en la base de datos. Error: {ex.InnerException.Message}");
             }
         }
 
@@ -69,7 +69,7 @@ namespace DiunsaSCM.Service
             }
             catch (Exception ex)
             {
-                return ServiceResult<IEnumerable<TModel>>.ErrorResult("Ha ocurrido un error al ejecutar la operación en la base de datos.");
+                return ServiceResult<IEnumerable<TModel>>.ErrorResult($"Ha ocurrido un error al ejecutar la operación en la base de datos. Error: {ex.InnerException.Message}");
             }
         }
 
@@ -88,7 +88,7 @@ namespace DiunsaSCM.Service
             }
             catch (Exception ex)
             {
-                return ServiceResult<TModel>.ErrorResult("Ha ocurrido un error al ejecutar la operación en la base de datos.");
+                return ServiceResult<TModel>.ErrorResult($"Ha ocurrido un error al ejecutar la operación en la base de datos. Error: {ex.InnerException.Message}");
             }
         }
 
@@ -103,7 +103,7 @@ namespace DiunsaSCM.Service
             }
             catch (Exception ex)
             {
-                return ServiceResult<TModel>.ErrorResult("Ha ocurrido un error al ejecutar la operación en la base de datos.");
+                return ServiceResult<TModel>.ErrorResult($"Ha ocurrido un error al ejecutar la operación en la base de datos. Error: {ex.InnerException.Message}");
             }
         }
     }

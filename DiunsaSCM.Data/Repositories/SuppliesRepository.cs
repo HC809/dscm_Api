@@ -3,9 +3,9 @@ using DiunsaSCM.Core.Repositories;
 
 namespace DiunsaSCM.Data.Repositories
 {
-    public class ExchangeRateRepository : RepositoryBase<ExchangeRate>, IExchangeRateRepository
+    public class SuppliesRepository : RepositoryBase<Supplies>, ISuppliesRepository
     {
-        public ExchangeRateRepository(DiunsaSCMContext context)
+        public SuppliesRepository(DiunsaSCMContext context)
             : base(context)
         {
         }

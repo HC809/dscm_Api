@@ -85,6 +85,8 @@ namespace DiunsaSCM.Data
             InventItemPrepackBarcodes = new InventItemPrepackBarcodeRepository(_context);
             InventItemPurchPriceLog = new InventItemPurchPriceLogRepository(_context);
 
+            ExchangeRate = new ExchangeRateRepository(_context);
+            Supplies = new SuppliesRepository(_context);
         }
 
         public IInventItemPrepackBarcodeRepository InventItemPrepackBarcodes { get; }
@@ -148,13 +150,17 @@ namespace DiunsaSCM.Data
         public IInventItemRepository InventItems { get; set; }
 
         public IBarcodeSourceRepository BarcodeSources { get; set; }
-        public ISalesPriceDefinitionLineRepository SalesPriceDefinitionLines{ get; set; }
+        public ISalesPriceDefinitionLineRepository SalesPriceDefinitionLines { get; set; }
         public ICustomerPriceGroupRepository CustomerPriceGroups { get; set; }
 
         public IPurchQuotationApprovalRoleRepository PurchQuotationApprovalRoles { get; set; }
         public IPurchQuotationApprovalRuleConditionStepRepository PurchQuotationApprovalRuleConditionSteps { get; set; }
 
         public IInventItemPurchPriceLogRepository InventItemPurchPriceLog { get; set; }
+
+        public IExchangeRateRepository ExchangeRate { get; set; }
+
+        public ISuppliesRepository Supplies { get; set; }
 
         public int Complete()
         {

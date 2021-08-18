@@ -256,8 +256,10 @@ namespace DiunsaSCM.Core
             CreateMap<InventItemEnrolmentDetail, InventItemEnrolmentDetailDTO>();
             CreateMap<InventItemEnrolmentDetailDTO, InventItemEnrolmentDetail>();
 
-
+            #region MODULO COSTEO
             CreateMap<ExchangeRate, ExchangeRateDTO>().ReverseMap();
+            CreateMap<Supplies, SuppliesDTO>().ReverseMap();
+            #endregion MODULO COSTEO
         }
     }
 }

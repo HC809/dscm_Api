@@ -91,7 +91,10 @@ namespace DiunsaSCM.Data
         public DbSet<InventItemEnrolment> InventItemEnrolment { get; set; }
         public DbSet<InventItemEnrolmentDetail> InventItemEnrolmentDetail { get; set; }
 
+        #region MODULO COSTEO
         public DbSet<ExchangeRate> ExchangeRate { get; set; }
+        public DbSet<Supplies> Supplies { get; set; }
+        #endregion MODULO COSTEO
 
         public DiunsaSCMContext() { }
 
@@ -269,17 +272,26 @@ namespace DiunsaSCM.Data
 
             modelBuilder.Entity<ExchangeRate>(entity =>
             {
-                entity.HasIndex(e => new { e.StartDate, e.EndDate })
-                    .HasName("UQ__Exchange__ABBB9996BBF1475C")
+                entity.HasIndex(e => new { e.CurrencyCode, e.StartDate, e.EndDate })
+                    .HasName("UQ__Exchange__2A3F9F26711F63C1")
                     .IsUnique();
 
-                entity.Property(e => e.CurrencyCode)
-                    .IsRequired()
-                    .HasMaxLength(450);
+                entity.Property(e => e.CurrencyCode).IsRequired();
+
+                entity.Property(e => e.EndDate).HasColumnType("date");
 
                 entity.Property(e => e.ExchangeRate1)
                     .HasColumnName("ExchangeRate")
                     .HasColumnType("numeric(9, 4)");
+
+                entity.Property(e => e.StartDate).HasColumnType("date");
+            });
+
+            modelBuilder.Entity<Supplies>(entity =>
+            {
+                entity.Property(e => e.Description).IsRequired();
+
+                entity.Property(e => e.Percentage).HasColumnType("decimal(5, 2)");
             });
 
             base.OnModelCreating(modelBuilder);

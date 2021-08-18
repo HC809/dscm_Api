@@ -267,8 +267,12 @@ namespace DiunsaSCM.API
 
             services.AddScoped<DiunsaSCM.Core.Repositories.ERPRepositories.IERPRepository<ERPReceiptDetail>, ERPReceiptDetailRepository>();
 
+            #region MODULO COSTEO
             services.AddScoped<IRepositoryBase<ExchangeRate>, ExchangeRateRepository>();
             services.AddScoped<IServiceBase<ExchangeRateDTO>, ExchangeRateService>();
+            services.AddScoped<IRepositoryBase<Supplies>, SuppliesRepository>();
+            services.AddScoped<IServiceBase<SuppliesDTO>, SuppliesService>();
+            #endregion MODULO COSTEO
 
             //services.AddScoped<IEmailService, EmailService>();
 
