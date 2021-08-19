@@ -45,7 +45,7 @@ namespace DiunsaSCM.API.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post([FromBody] TModel model)
+        public virtual ActionResult Post([FromBody] TModel model)
         {
             var serviceResult = _service.Add(model);
             if (serviceResult.ResponseCode == ResponseCode.Error)
@@ -56,7 +56,7 @@ namespace DiunsaSCM.API.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult Put(long id, [FromBody] TModel model)
+        public virtual ActionResult Put(long id, [FromBody] TModel model)
         {
             var serviceResult = _service.Update(model);
             if (serviceResult.ResponseCode == ResponseCode.Error)

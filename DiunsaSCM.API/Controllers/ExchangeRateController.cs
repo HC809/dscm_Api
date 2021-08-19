@@ -17,9 +17,8 @@ namespace DiunsaSCM.API.Controllers
         {
         }
 
-        [Route("~/api/[controller]/create")]
         [HttpPost]
-        public ActionResult Create(ExchangeRateDTO model)
+        public override ActionResult Post(ExchangeRateDTO model)
         {
             IExchangeRateService exchangeRateService = _service as IExchangeRateService;
 
@@ -32,9 +31,8 @@ namespace DiunsaSCM.API.Controllers
             return Ok(serviceResult);
         }
 
-        [Route("~/api/[controller]/update")]
-        [HttpPut]
-        public ActionResult Update(ExchangeRateDTO model)
+        [HttpPut("{id}")]
+        public override ActionResult Put(long id, ExchangeRateDTO model)
         {
             IExchangeRateService exchangeRateService = _service as IExchangeRateService;
 
